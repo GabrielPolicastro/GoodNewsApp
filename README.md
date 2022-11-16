@@ -1,2 +1,2 @@
 # GoodNewsApp
-Aplicativo com Api de Noticias
+Training app, with News API
